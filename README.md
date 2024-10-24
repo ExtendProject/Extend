@@ -29,6 +29,15 @@ By enabling communities to build homes that are both sustainable and resilient, 
 - Site-specific design suggestions based on local data.
 - Focus on affordability and accessibility.
 
+
+## Project Roadmap
+
+![Extend AI Roadmap](/Project-Road-Map.png)
+
+## Youtube
+
+[Watch Video](https://www.youtube.com/watch?v=NKebCjueCrg)
+
 ## Vision
 
 Extend's mission is to make sustainable housing accessible to all, contributing to a future where economic and social well-being is supported through the provision of environmentally resilient homes.
@@ -36,4 +45,5 @@ Extend's mission is to make sustainable housing accessible to all, contributing 
 ---
 
 Thank you for exploring Extend. We welcome contributions and suggestions to help make sustainable housing a reality for everyone.
+
 
