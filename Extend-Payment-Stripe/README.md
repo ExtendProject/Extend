@@ -26,13 +26,7 @@ Run the following command to install the required npm packages:
 npm install
 ```
 
-### 3. Set up Stripe API keys
-
-- Replace the following keys in `index.js`:
-  - `sk_test_51HxFijD844Bjnaxyr8AdaZCQ4UlsChPfyNLgB8VXrAFSCrRxLQRYvsYGrxWmtMX9YvOPCr3kDi5275uHX4gsdAQj00W1QVH7RC` with your **Stripe secret key**.
-  - `pk_test_qblFNYngBkEdjEZ16jxxoWSM` with your **Stripe publishable key**.
-
-### 4. Run the server
+### 3. Run the server
 
 Start the server by running:
 
@@ -42,7 +36,7 @@ npm start
 
 By default, the server will run on port `6000`.
 
-### 5. API Endpoints
+### 4. API Endpoints
 
 #### Health Check
 
@@ -69,7 +63,7 @@ Content-Type: application/json
 }
 ```
 
-### 6. Environment Variables (Optional)
+### 5. Environment Variables (Optional)
 
 You can use a `.env` file to manage your environment variables. Create a `.env` file and add your configuration:
 
@@ -79,7 +73,7 @@ STRIPE_PUBLISHABLE_KEY=your_publishable_key
 PORT=6000
 ```
 
-### 7. CORS Setup
+### 6. CORS Setup
 
 This API has CORS enabled with the following settings:
 
